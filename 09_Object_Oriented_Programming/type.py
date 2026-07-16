@@ -1,0 +1,6 @@
+print(type(50))
+print(type(dict()))
+print(type(list()))
+print(type(()))
+print(type({}))
+print(type([]))
